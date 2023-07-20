@@ -1,0 +1,1169 @@
+[{
+	"id": 1,
+	"name": "Oak Grove",
+	"lines": [{
+		"name": "Orange",
+		"predecessorStation": 0,
+		"successorStation": 2
+	}]
+},
+	{
+		"id": 2,
+		"name": "Malden",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 1,
+			"successorStation": 5
+		}]
+	},
+	{
+		"id": 3,
+		"name": "Wonderland",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 0,
+			"successorStation": 4
+		}]
+	},
+	{
+		"id": 4,
+		"name": "Revere Beach",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 3,
+			"successorStation": 6
+		}]
+	},
+	{
+		"id": 5,
+		"name": "Wellington",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 2,
+			"successorStation": 12
+		}]
+	},
+	{
+		"id": 6,
+		"name": "Beachmont",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 4,
+			"successorStation": 9
+		}]
+	},
+	{
+		"id": 7,
+		"name": "Davis",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 8,
+			"successorStation": 10
+		}]
+	},
+	{
+		"id": 8,
+		"name": "Alewife",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 0,
+			"successorStation": 7
+		}]
+	},
+	{
+		"id": 9,
+		"name": "Suffolk Downs",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 6,
+			"successorStation": 11
+		}]
+	},
+	{
+		"id": 10,
+		"name": "Porter",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 7,
+			"successorStation": 14
+		}]
+	},
+	{
+		"id": 11,
+		"name": "Orient Heights",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 9,
+			"successorStation": 13
+		}]
+	},
+	{
+		"id": 12,
+		"name": "Sullivan Square",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 5,
+			"successorStation": 15
+		}]
+	},
+	{
+		"id": 13,
+		"name": "Wood Island",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 11,
+			"successorStation": 16
+		}]
+	},
+	{
+		"id": 14,
+		"name": "Harvard",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 10,
+			"successorStation": 21
+		}]
+	},
+	{
+		"id": 15,
+		"name": "Community College",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 12,
+			"successorStation": 20
+		}]
+	},
+	{
+		"id": 16,
+		"name": "Airport",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 13,
+			"successorStation": 18
+		}]
+	},
+	{
+		"id": 17,
+		"name": "Lechmere",
+		"lines": [{
+			"name": "Green",
+			"predecessorStation": 0,
+			"successorStation": 19
+		}]
+	},
+	{
+		"id": 18,
+		"name": "Maverick",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 16,
+			"successorStation": 26
+		}]
+	},
+	{
+		"id": 19,
+		"name": "Science Park",
+		"lines": [{
+			"name": "Green",
+			"predecessorStation": 17,
+			"successorStation": 20
+		}]
+	},
+	{
+		"id": 20,
+		"name": "North Station",
+		"lines": [{
+			"name": "Green",
+			"predecessorStation": 19,
+			"successorStation": 22
+		}, {
+			"name": "Orange",
+			"predecessorStation": 15,
+			"successorStation": 22
+		}]
+	},
+	{
+		"id": 21,
+		"name": "Central",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 14,
+			"successorStation": 23
+		}]
+	},
+	{
+		"id": 22,
+		"name": "Haymarket",
+		"lines": [{
+			"name": "Green",
+			"predecessorStation": 20,
+			"successorStation": 27
+		}, {
+			"name": "Orange",
+			"predecessorStation": 20,
+			"successorStation": 28
+		}]
+	},
+	{
+		"id": 23,
+		"name": "Kendall",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 21,
+			"successorStation": 25
+		}]
+	},
+	{
+		"id": 24,
+		"name": "Bowdoin",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 0,
+			"successorStation": 27
+		}]
+	},
+	{
+		"id": 25,
+		"name": "Charles/MGH",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 23,
+			"successorStation": 29
+		}]
+	},
+	{
+		"id": 26,
+		"name": "Aquarium",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 18,
+			"successorStation": 28
+		}]
+	},
+	{
+		"id": 27,
+		"name": "Government Center",
+		"lines": [{
+			"name": "Green",
+			"predecessorStation": 22,
+			"successorStation": 29
+		}, {
+			"name": "Blue",
+			"predecessorStation": 24,
+			"successorStation": 28
+		}]
+	},
+	{
+		"id": 28,
+		"name": "State",
+		"lines": [{
+			"name": "Blue",
+			"predecessorStation": 26,
+			"successorStation": 27
+		}, {
+			"name": "Orange",
+			"predecessorStation": 22,
+			"successorStation": 30
+		}]
+	},
+	{
+		"id": 29,
+		"name": "Park Street",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 25,
+			"successorStation": 30
+		}, {
+			"name": "Green",
+			"predecessorStation": 31,
+			"successorStation": 27
+		}]
+	},
+	{
+		"id": 30,
+		"name": "Downtown Crossing",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 33,
+			"successorStation": 29
+		}, {
+			"name": "Orange",
+			"predecessorStation": 32,
+			"successorStation": 28
+		}]
+	},
+	{
+		"id": 31,
+		"name": "Boylston",
+		"lines": [{
+			"name": "Green",
+			"predecessorStation": 34,
+			"successorStation": 29
+		}]
+	},
+	{
+		"id": 32,
+		"name": "Chinatown",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 44,
+			"successorStation": 30
+		}]
+	},
+	{
+		"id": 33,
+		"name": "South Station",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 60,
+			"successorStation": 30
+		}]
+	},
+	{
+		"id": 34,
+		"name": "Arlington",
+		"lines": [{
+			"name": "Green",
+			"predecessorStation": 41,
+			"successorStation": 31
+		}]
+	},
+	{
+		"id": 35,
+		"name": "Babcock Street",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 36,
+			"successorStation": 37
+		}]
+	},
+	{
+		"id": 36,
+		"name": "Brighton Avenue",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 40,
+			"successorStation": 35
+		}]
+	},
+	{
+		"id": 37,
+		"name": "Pleasant Street",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 35,
+			"successorStation": 38
+		}]
+	},
+	{
+		"id": 38,
+		"name": "St. Paul Street",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 37,
+			"successorStation": 39
+		}]
+	},
+	{
+		"id": 39,
+		"name": "Boston University West",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 38,
+			"successorStation": 43
+		}]
+	},
+	{
+		"id": 40,
+		"name": "Fordham Road",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 42,
+			"successorStation": 36
+		}]
+	},
+	{
+		"id": 41,
+		"name": "Copley",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 51,
+			"successorStation": 34
+		}, {
+			"name": "GreenC",
+			"predecessorStation": 51,
+			"successorStation": 34
+		}, {
+			"name": "GreenD",
+			"predecessorStation": 51,
+			"successorStation": 34
+		}, {
+			"name": "GreenE",
+			"predecessorStation": 53,
+			"successorStation": 34
+		}]
+	},
+	{
+		"id": 42,
+		"name": "Harvard Avenue",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 48,
+			"successorStation": 40
+		}]
+	},
+	{
+		"id": 43,
+		"name": "Boston University Central",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 39,
+			"successorStation": 45
+		}]
+	},
+	{
+		"id": 44,
+		"name": "New England Medical Center",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 52,
+			"successorStation": 32
+		}]
+	},
+	{
+		"id": 45,
+		"name": "Boston University East",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 43,
+			"successorStation": 46
+		}]
+	},
+	{
+		"id": 46,
+		"name": "Blandford Street",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 45,
+			"successorStation": 47
+		}]
+	},
+	{
+		"id": 47,
+		"name": "Kenmore",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 46,
+			"successorStation": 51
+		}, {
+			"name": "GreenC",
+			"predecessorStation": 54,
+			"successorStation": 51
+		}, {
+			"name": "GreenD",
+			"predecessorStation": 57,
+			"successorStation": 51
+		}]
+	},
+	{
+		"id": 48,
+		"name": "Griggs Street/Longwood Avenue",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 50,
+			"successorStation": 42
+		}]
+	},
+	{
+		"id": 49,
+		"name": "Warren Street",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 55,
+			"successorStation": 50
+		}]
+	},
+	{
+		"id": 50,
+		"name": "Allston Street",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 49,
+			"successorStation": 48
+		}]
+	},
+	{
+		"id": 51,
+		"name": "Hynes/ICA",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 47,
+			"successorStation": 41
+		}]
+	},
+	{
+		"id": 52,
+		"name": "Back Bay/South End",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 64,
+			"successorStation": 44
+		}]
+	},
+	{
+		"id": 53,
+		"name": "Prudential",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 62,
+			"successorStation": 41
+		}]
+	},
+	{
+		"id": 54,
+		"name": "St. Mary's Street",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 56,
+			"successorStation": 47
+		}]
+	},
+	{
+		"id": 55,
+		"name": "Summit Avenue",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 59,
+			"successorStation": 49
+		}]
+	},
+	{
+		"id": 56,
+		"name": "Hawes Street",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 58,
+			"successorStation": 54
+		}]
+	},
+	{
+		"id": 57,
+		"name": "Fenway",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 65,
+			"successorStation": 47
+		}]
+	},
+	{
+		"id": 58,
+		"name": "Kent Street",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 61,
+			"successorStation": 56
+		}]
+	},
+	{
+		"id": 59,
+		"name": "Washington Street",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 66,
+			"successorStation": 55
+		}]
+	},
+	{
+		"id": 60,
+		"name": "Broadway",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 94,
+			"successorStation": 33
+		}]
+	},
+	{
+		"id": 61,
+		"name": "St. Paul Street",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 63,
+			"successorStation": 58
+		}]
+	},
+	{
+		"id": 62,
+		"name": "Symphony",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 70,
+			"successorStation": 53
+		}]
+	},
+	{
+		"id": 63,
+		"name": "Coolidge Corner",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 68,
+			"successorStation": 61
+		}]
+	},
+	{
+		"id": 64,
+		"name": "Massachusetts Avenue",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 82,
+			"successorStation": 52
+		}]
+	},
+	{
+		"id": 65,
+		"name": "Longwood",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 90,
+			"successorStation": 57
+		}]
+	},
+	{
+		"id": 66,
+		"name": "Mount Hood Road",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 67,
+			"successorStation": 59
+		}]
+	},
+	{
+		"id": 67,
+		"name": "Sutherland Road",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 71,
+			"successorStation": 66
+		}]
+	},
+	{
+		"id": 68,
+		"name": "Winchester Street/Summit Av.",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 73,
+			"successorStation": 63
+		}]
+	},
+	{
+		"id": 69,
+		"name": "Boston College",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 0,
+			"successorStation": 72
+		}]
+	},
+	{
+		"id": 70,
+		"name": "Northeastern University",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 79,
+			"successorStation": 62
+		}]
+	},
+	{
+		"id": 71,
+		"name": "Chiswick Road",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 78,
+			"successorStation": 67
+		}]
+	},
+	{
+		"id": 72,
+		"name": "Greycliff Road",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 69,
+			"successorStation": 75
+		}]
+	},
+	{
+		"id": 73,
+		"name": "Brandon Hall",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 74,
+			"successorStation": 68
+		}]
+	},
+	{
+		"id": 74,
+		"name": "Fairbanks Street",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 76,
+			"successorStation": 73
+		}]
+	},
+	{
+		"id": 75,
+		"name": "South Street",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 72,
+			"successorStation": 78
+		}]
+	},
+	{
+		"id": 76,
+		"name": "Washington Square",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 77,
+			"successorStation": 74
+		}]
+	},
+	{
+		"id": 77,
+		"name": "Tappan Street",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 80,
+			"successorStation": 76
+		}]
+	},
+	{
+		"id": 78,
+		"name": "Chestnut Hill Avenue",
+		"lines": [{
+			"name": "GreenB",
+			"predecessorStation": 75,
+			"successorStation": 71
+		}]
+	},
+	{
+		"id": 79,
+		"name": "Museum of Fine Arts",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 84,
+			"successorStation": 70
+		}]
+	},
+	{
+		"id": 80,
+		"name": "Dean Road",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 81,
+			"successorStation": 77
+		}]
+	},
+	{
+		"id": 81,
+		"name": "Englewood Avenue",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 83,
+			"successorStation": 80
+		}]
+	},
+	{
+		"id": 82,
+		"name": "Ruggles",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 93,
+			"successorStation": 64
+		}]
+	},
+	{
+		"id": 83,
+		"name": "Cleveland Circle",
+		"lines": [{
+			"name": "GreenC",
+			"predecessorStation": 0,
+			"successorStation": 81
+		}]
+	},
+	{
+		"id": 84,
+		"name": "Longwood Medical Area",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 87,
+			"successorStation": 79
+		}]
+	},
+	{
+		"id": 85,
+		"name": "Beaconsfield",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 86,
+			"successorStation": 91
+		}]
+	},
+	{
+		"id": 86,
+		"name": "Reservoir",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 113,
+			"successorStation": 85
+		}]
+	},
+	{
+		"id": 87,
+		"name": "Brigham Circle",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 88,
+			"successorStation": 84
+		}]
+	},
+	{
+		"id": 88,
+		"name": "Fenwood Road",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 89,
+			"successorStation": 87
+		}]
+	},
+	{
+		"id": 89,
+		"name": "Mission Park",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 92,
+			"successorStation": 88
+		}]
+	},
+	{
+		"id": 90,
+		"name": "Brookline Village",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 91,
+			"successorStation": 65
+		}]
+	},
+	{
+		"id": 91,
+		"name": "Brookline Hills",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 85,
+			"successorStation": 90
+		}]
+	},
+	{
+		"id": 92,
+		"name": "Riverway",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 95,
+			"successorStation": 89
+		}]
+	},
+	{
+		"id": 93,
+		"name": "Roxbury Crossing",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 97,
+			"successorStation": 82
+		}]
+	},
+	{
+		"id": 94,
+		"name": "Andrew",
+		"lines": [{
+			"name": "Red",
+			"predecessorStation": 98,
+			"successorStation": 60
+		}]
+	},
+	{
+		"id": 95,
+		"name": "Back Of The Hill",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 96,
+			"successorStation": 92
+		}]
+	},
+	{
+		"id": 96,
+		"name": "Heath Street",
+		"lines": [{
+			"name": "GreenE",
+			"predecessorStation": 0,
+			"successorStation": 95
+		}]
+	},
+	{
+		"id": 97,
+		"name": "Jackson Square",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 99,
+			"successorStation": 93
+		}]
+	},
+	{
+		"id": 98,
+		"name": "JFK/UMass",
+		"lines": [{
+			"name": "RedA",
+			"predecessorStation": 100,
+			"successorStation": 94
+		}, {
+			"name": "RedB",
+			"predecessorStation": 120,
+			"successorStation": 94
+		}]
+	},
+	{
+		"id": 99,
+		"name": "Stony Brook",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 101,
+			"successorStation": 97
+		}]
+	},
+	{
+		"id": 100,
+		"name": "Savin Hill",
+		"lines": [{
+			"name": "RedA",
+			"predecessorStation": 103,
+			"successorStation": 98
+		}]
+	},
+	{
+		"id": 101,
+		"name": "Green Street",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 102,
+			"successorStation": 99
+		}]
+	},
+	{
+		"id": 102,
+		"name": "Forest Hills",
+		"lines": [{
+			"name": "Orange",
+			"predecessorStation": 0,
+			"successorStation": 101
+		}]
+	},
+	{
+		"id": 103,
+		"name": "Fields Corner",
+		"lines": [{
+			"name": "RedA",
+			"predecessorStation": 104,
+			"successorStation": 100
+		}]
+	},
+	{
+		"id": 104,
+		"name": "Shawmut",
+		"lines": [{
+			"name": "RedA",
+			"predecessorStation": 105,
+			"successorStation": 103
+		}]
+	},
+	{
+		"id": 105,
+		"name": "Ashmont",
+		"lines": [{
+			"name": "RedA",
+			"predecessorStation": 0,
+			"successorStation": 104
+		}, {
+			"name": "Mattapan",
+			"predecessorStation": 106,
+			"successorStation": 0
+		}]
+	},
+	{
+		"id": 106,
+		"name": "Cedar Grove",
+		"lines": [{
+			"name": "Mattapan",
+			"predecessorStation": 107,
+			"successorStation": 105
+		}]
+	},
+	{
+		"id": 107,
+		"name": "Butler Street",
+		"lines": [{
+			"name": "Mattapan",
+			"predecessorStation": 108,
+			"successorStation": 106
+		}]
+	},
+	{
+		"id": 108,
+		"name": "Milton",
+		"lines": [{
+			"name": "Mattapan",
+			"predecessorStation": 109,
+			"successorStation": 107
+		}]
+	},
+	{
+		"id": 109,
+		"name": "Central Avenue",
+		"lines": [{
+			"name": "Mattapan",
+			"predecessorStation": 110,
+			"successorStation": 108
+		}]
+	},
+	{
+		"id": 110,
+		"name": "Valley Road",
+		"lines": [{
+			"name": "Mattapan",
+			"predecessorStation": 111,
+			"successorStation": 109
+		}]
+	},
+	{
+		"id": 111,
+		"name": "Capen Street",
+		"lines": [{
+			"name": "Mattapan",
+			"predecessorStation": 112,
+			"successorStation": 110
+		}]
+	},
+	{
+		"id": 112,
+		"name": "Mattapan",
+		"lines": [{
+			"name": "Mattapan",
+			"predecessorStation": 0,
+			"successorStation": 111
+		}]
+	},
+	{
+		"id": 113,
+		"name": "Chesnut Hill",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 114,
+			"successorStation": 86
+		}]
+	},
+	{
+		"id": 114,
+		"name": "Newton Center",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 115,
+			"successorStation": 113
+		}]
+	},
+	{
+		"id": 115,
+		"name": "Newton Highlands",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 116,
+			"successorStation": 114
+		}]
+	},
+	{
+		"id": 116,
+		"name": "Eliot",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 117,
+			"successorStation": 115
+		}]
+	},
+	{
+		"id": 117,
+		"name": "Waban",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 118,
+			"successorStation": 116
+		}]
+	},
+	{
+		"id": 118,
+		"name": "Woodland",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 119,
+			"successorStation": 117
+		}]
+	},
+	{
+		"id": 119,
+		"name": "Riverside",
+		"lines": [{
+			"name": "GreenD",
+			"predecessorStation": 0,
+			"successorStation": 118
+		}]
+	},
+	{
+		"id": 120,
+		"name": "North Quincy",
+		"lines": [{
+			"name": "RedB",
+			"predecessorStation": 121,
+			"successorStation": 98
+		}]
+	},
+	{
+		"id": 121,
+		"name": "Wollaston",
+		"lines": [{
+			"name": "RedB",
+			"predecessorStation": 122,
+			"successorStation": 120
+		}]
+	},
+	{
+		"id": 122,
+		"name": "Quincy Center",
+		"lines": [{
+			"name": "RedB",
+			"predecessorStation": 123,
+			"successorStation": 121
+		}]
+	},
+	{
+		"id": 123,
+		"name": "Quincy Adams",
+		"lines": [{
+			"name": "RedB",
+			"predecessorStation": 124,
+			"successorStation": 122
+		}]
+	},
+	{
+		"id": 124,
+		"name": "Braintree",
+		"lines": [{
+			"name": "RedB",
+			"predecessorStation": 0,
+			"successorStation": 123
+		}]
+	}
+]

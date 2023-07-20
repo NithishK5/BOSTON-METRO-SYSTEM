@@ -1,0 +1,51 @@
+[{
+  "id": 1,
+  "name": "Station A",
+  "lines": [{
+    "name": "White",
+    "predecessorStation": 0,
+    "successorStation": 3
+  }]
+},
+  {
+    "id": 2,
+    "name": "Station B",
+    "lines": [{
+      "name": "White",
+      "predecessorStation": 3,
+      "successorStation": 0
+    }]
+  },
+  {
+    "id": 3,
+    "name": "Station C",
+    "lines": [{
+      "name": "White",
+      "predecessorStation": 1,
+      "successorStation": 2
+    }, {
+      "name": "Black",
+      "predecessorStation": 4,
+      "successorStation": 5
+    }]
+  },
+  {
+    "id": 4,
+    "name": "Station D",
+    "lines": [{
+      "name": "Black",
+      "predecessorStation": 0,
+      "successorStation": 3
+    }]
+  },
+  {
+    "id": 5,
+    "name": "Station E",
+    "lines": [
+      {
+        "name": "Black",
+        "predecessorStation": 3,
+        "successorStation": 0
+      }
+    ]}
+  ]
